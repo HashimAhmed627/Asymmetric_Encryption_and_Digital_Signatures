@@ -1,4 +1,4 @@
-# Asymmetric Encryption 🔑
+# Asymmetric Encryption & Digital Signatures 🔑
 ## Overview
 This project demonstrates the process of asymmetric encryption using RSA keys to securely encrypt and decrypt files, as well as generate and verify digital signatures. It covers the generation of private and public keys, encrypting and decrypting data, and applying digital signatures for file integrity verification.
 
