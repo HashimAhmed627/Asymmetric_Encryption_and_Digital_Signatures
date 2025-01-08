@@ -91,6 +91,9 @@ After verifying the signature of the `sample.txt` file, we receive a 'Verified O
 __________________________________________________________________________________________________________________
 ## Lessons Learned
 - **Understanding Key Management:** It’s important to grasp how private and public keys interact in encryption and decryption processes.
+
 - **Security of Passphrases:** Encrypting private keys with strong passphrases adds an extra layer of security, but key management needs careful attention.
+
 - **Public Key Encryption:** Encrypting data with the public key ensures that only the holder of the corresponding private key can decrypt it.
+
 - **Digital Signatures:** Using private keys to sign files helps ensure data integrity and authenticity, with the public key used to verify signatures.
